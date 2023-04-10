@@ -1,2 +1,1 @@
-### Auto_login_CC for NSUCC
-
+1、如果想让该软件开机自启，可以将该软件的快捷方式放入自启动文件夹（C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp）
